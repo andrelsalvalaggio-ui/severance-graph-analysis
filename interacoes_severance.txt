@@ -1,0 +1,109 @@
+# BASE DE DADOS DE INTERACOES - SEVERANCE - GERADO POR IA BASEADO EM TRANSCRICOES
+# Formato: personagem1 personagem2 sinal ambiente
+# Metadados: # Temporada e Episodio | Intervalo Temporal | Justificativa do Sinal e Contexto da Cena
+
+# S01E01 | 00:00:14 - 00:04:55 | Helly acorda desorientada na mesa da sala de conferencias e reage com hostilidade e panico ao questionario conduzido por Mark via alto-falante.
+HellyR MarkInnie - SurveyRoom
+
+# S01E01 | 00:08:31 - 00:08:47 | Mark Scout interage cordialmente com o guarda de seguranca Judd na recepcao exterior antes de entrar no elevador da Lumon.
+Judd MarkOutie + LumonLobby
+
+# S01E01 | 00:11:16 - 00:12:12 | Dylan implica com a respiracao de Mark e questiona a ausencia de Petey; troca de hostilidades em tom de brincadeira de escritorio.
+DylanInnie MarkInnie - MDR
+
+# S01E01 | 00:11:52 - 00:12:46 | Irving chega cumprimentando a equipe; Dylan e Irving discutem asperamente sobre incentivos da empresa e a saudacao de Irving.
+DylanInnie IrvingInnie - MDR
+
+# S01E01 | 00:12:12 - 00:12:20 | Irving conversa calmamente com Mark sobre a suspeita de que Petey esteja doente em casa.
+IrvingInnie MarkInnie 0 MDR
+
+# S01E01 | 00:12:46 - 00:13:30 | Seth Milchick entra no departamento e chama Mark para uma conversa em particular com a diretoria.
+MarkInnie SethMilchick 0 MDR
+
+# S01E01 | 00:13:50 - 00:16:38 | Harmony Cobel promove Mark a chefe do departamento apos anunciar que Petey nao faz mais parte da empresa; Mark demonstra choque e submissao.
+HarmonyCobel MarkInnie 0 CobelOffice
+
+# S01E01 | 00:16:43 - 00:17:36 | Irving da apoio moral a Mark na nova mesa de chefe e repassa os procedimentos operacionais do onboarding.
+IrvingInnie MarkInnie + MDR
+
+# S01E01 | 00:17:36 - 00:17:54 | Seth Milchick prepara a sala de observacao e instrui Mark e Irving a iniciarem o procedimento com a nova contratada.
+IrvingInnie SethMilchick + ObservationRoom
+# S01E01 | 00:17:36 - 00:17:54 | Seth Milchick alinha com Mark o inicio do teste de Helly.
+MarkInnie SethMilchick 0 ObservationRoom
+
+# S01E01 | 00:18:06 - 00:19:25 | Irving instrui e corrige Mark durante a conducao do questionario de Helly; Mark esqueceu o preambulo.
+IrvingInnie MarkInnie 0 ObservationRoom
+
+# S01E01 | 00:19:39 - 00:20:00 | Milchick observa a tentativa de Helly de fugir da sala e pergunta a Cobel se deve intervir, o que e negado.
+HarmonyCobel SethMilchick 0 SurveillanceRoom
+
+# S01E01 | 00:20:02 - 00:24:35 | Mark entra presencialmente na sala para acalmar Helly; ela se recusa a cooperar, exige sair e atira o alto-falante nele.
+HellyR MarkInnie - SurveyRoom
+
+# S01E01 | 00:25:03 - 00:26:00 | Mark conduz Helly pelos corredores ate a saida de emergencia; Helly questiona a substituicao e desconfia da estrutura.
+HellyR MarkInnie 0 LumonCorridors
+
+# S01E01 | 00:27:21 - 00:27:42 | Helly atravessa a porta, tem sua memoria alternada e volta imediatamente; Mark explica pacientemente que ela optou por retornar.
+HellyR MarkInnie 0 Stairwell
+
+# S01E01 | 00:27:42 - 00:28:30 | Harmony Cobel recebe Helly na sala e a repreende com sarcasmo agressivo por agredir Mark, preparando-a para o video.
+HarmonyCobel HellyR - CobelOffice
+
+# S01E01 | 00:28:50 - 00:30:10 | Harmony Cobel repreende duramente Mark em seu gabinete pela conducao desastrosa do primeiro contato com Helly.
+HarmonyCobel MarkInnie - CobelOffice
+
+# S01E01 | 00:30:16 - 00:31:55 | Seth Milchick supervisiona e orienta Helly durante a reproducao do video de consentimento gravado por seu Outie.
+HellyR SethMilchick 0 ScreeningRoom
+
+# S01E01 | 00:32:16 - 00:33:00 | Mark conversa com Helly apos o video e tenta conforta-la sobre as regras de horario e a rotina do andar severado.
+HellyR MarkInnie + MDR
+
+# S01E01 | 00:34:43 - 00:35:10 | Mark lê o bilhete oficial entregue por Milchick sobre o ferimento na testa com a lamina de retroprojetor.
+MarkInnie SethMilchick 0 MDR
+
+# S01E01 | 00:35:20 - 00:35:30 | No estacionamento exterior, Helly (Helena) quase colide com Mark Scout e grita com ele devido a pista congelada.
+HelenaEagan MarkOutie - LumonParking
+
+# S01E01 | 00:36:52 - 00:37:15 | Mark conversa ao telefone com a vizinha Sra. Selvig reclamando das lixeiras no seu espaco.
+MarkOutie MrsSelvig 0 MarkHouse
+
+# S01E01 | 00:37:25 - 00:38:40 | Devon chega a casa de Mark, repreende carinhosamente o irmao pelo estado de desleixo e o convence a ir ao jantar.
+DevonHale MarkOutie + MarkHouse
+
+# S01E01 | 00:38:46 - 00:39:00 | Ricken recebe Mark efusivamente em sua residencia para o jantar sem comida.
+MarkOutie RickenHale + RickenHouse
+
+# S01E01 | 00:39:15 - 00:40:30 | Patton e Ricken debatem comida vs vida; Patton questiona Mark sobre a Primeira Guerra Mundial.
+MarkOutie Patton 0 RickenHouse
+# S01E01 | 00:39:15 - 00:40:30 | Ricken e Patton engajam Mark nas discussoes conceituais do jantar.
+Patton RickenHale + RickenHouse
+
+# S01E01 | 00:40:30 - 00:41:00 | Rebeck descobre o passado de professor de Mark e pergunta sobre sua transicao profissional para a Lumon.
+MarkOutie Rebeck 0 RickenHouse
+
+# S01E01 | 00:41:00 - 00:43:05 | Ricken expoem a cirurgia de ruptura de Mark aos convidados; Mark e pressionado por Patton e Rebeck sobre estar preso.
+MarkOutie RickenHale - RickenHouse
+# S01E01 | 00:41:15 - 00:43:05 | Devon intervém para defender a privacidade de Mark contra a indiscricao de Ricken e dos convidados.
+DevonHale MarkOutie + RickenHouse
+# S01E01 | 00:41:15 - 00:41:30 | Devon repreende Ricken diretamente por ter exposto a situacao intima de Mark na mesa.
+DevonHale RickenHale - RickenHouse
+
+# S01E01 | 00:43:30 - 00:44:55 | Devon e Mark conversam sozinhos na cozinha de forma intima sobre o luto pela falecida esposa Gemma e a terapia.
+DevonHale MarkOutie + RickenHouse
+
+# S01E01 | 00:44:55 - 00:45:50 | Ricken explica a teoria das tres camas do bebe e se despede carinhosamente de Mark para a noite.
+MarkOutie RickenHale + RickenHouse
+# S01E01 | 00:45:45 - 00:45:55 | Ricken e Devon trocam brincadeiras afetivas antes de dormir.
+DevonHale RickenHale + RickenHouse
+
+# S01E01 | 00:47:50 - 00:48:45 | Mark e Devon conversam pela manha sobre o suposto homem de negocios visto no quintal durante a madrugada.
+DevonHale MarkOutie + RickenHouse
+
+# S01E01 | 00:49:32 - 00:50:18 | Mark atende ao telefone a Sra. Selvig de dentro do restaurante enquanto ela insiste sobre a troca do lixo.
+MarkOutie MrsSelvig 0 PipsDiner
+
+# S01E01 | 00:50:18 - 00:53:30 | Petey aborda Mark de surpresa na mesa da lanchonete, revela que realizou a reintegracao e entrega o envelope com o mapa.
+MarkOutie PeterKilmer - PipsDiner
+
+# S01E01 | 00:54:34 - 00:55:25 | Ao retornar a noite, Mark e recepcionado no quintal pela Sra. Selvig que tenta ser calorosa e fala sobre sua mae catolica.
+MarkOutie MrsSelvig + MarkPorch
